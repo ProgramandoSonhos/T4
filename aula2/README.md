@@ -3,5 +3,3 @@
 * Arrays
 * For
 * Foreach
-* Switch
-* Funcoes
