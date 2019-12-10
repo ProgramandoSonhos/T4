@@ -1,7 +1,6 @@
 # Aula 4
 
+* Função com valor padrão
+* GET
 * POST
 * Forms
-* Conexão
-* Select
-* Insert
